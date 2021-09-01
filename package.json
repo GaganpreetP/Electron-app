@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "first electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
+  },
+  "author": "Gaganpreet Singh",
+  "git" : "https://github.com/GaganpreetP/Electron-app",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
