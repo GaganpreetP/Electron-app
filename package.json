@@ -8,7 +8,6 @@
     "start" : "electron ."
   },
   "author": "Gaganpreet Singh",
-  "git" : "https://github.com/GaganpreetP/Electron-app",
   "license": "ISC",
   "devDependencies": {
     "electron": "^14.0.0"
